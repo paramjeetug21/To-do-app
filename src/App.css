@@ -1,0 +1,18 @@
+h1 {
+  background-color: pink;
+  font-weight: 700;
+  margin: 1px;
+  margin-bottom: 20px;
+}
+input {
+  width: 100%;
+}
+.todo-items {
+  text-align: left;
+}
+.row {
+  margin: 5px;
+}
+.container {
+  border: 2px solid black;
+}
